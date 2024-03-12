@@ -1,7 +1,7 @@
 {
-  "name": "Ibrahim-tech@1.2.8",
-  "description": "I am Ibrahim-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/963f9c4a41319399f90be.jpg",
+  "name": "Alpha-tech@1.2.8",
+  "description": "I am Alpha-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "logo": "https://telegra.ph/file/a069ac2fee769e7ed70d3.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗠𝗥 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+      "value": "𝐀𝐋𝐏𝐇𝐀 𝐓𝐄𝐂𝐇",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛"
+      "value": "𝐀𝐋𝐏𝐇𝐀-𝐓𝐄𝐂𝐇"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg"
+      "value": "https://telegra.ph/file/a069ac2fee769e7ed70d3.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666"
+      "value": "254748387615"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "𝐀𝐋𝐏𝐇𝐀-𝗧𝗘𝗖𝗛",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "𝐀𝐋𝐏𝐇𝐀-𝗧𝗘𝗖𝗛",
       "required": false 
     }
   }, 
